@@ -23,16 +23,19 @@ In this task, I created an account on HackerRank and solved a beginner-level pro
 
 🗄️Files included:
 
-1.HackerRank problem screenshot
+HackerRank problem screenshot
 
-2.Google Form screenshot
+Google Form screenshot
 
-3.Google Form link
+Google Form link
 
 # Task 4 – Email Etiquette
 In this task, I wrote two professional emails:
+
 Email to a professor requesting an assignment deadline extension
+
 Email to a company asking about internship opportunities
+
 I also created a social media do’s and don’ts checklist to promote responsible use of social media.
 
 🗄️Files included:
