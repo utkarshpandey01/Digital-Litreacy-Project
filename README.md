@@ -50,15 +50,23 @@ This project was a very useful learning experience for me. It helped me understa
 
 
 💻Tools and Platforms Used-
+
 Canva
+
 GitHub
+
 LinkedIn
+
 Kaggle
+
 CodeChef
+
 Google Forms
+
 Google Sheets
 
-Report
+# Report
+
 Files Included:
 
 Project_Report.pdf
