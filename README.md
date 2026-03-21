@@ -21,9 +21,9 @@ Screenshots of GitHub, LinkedIn, and Kaggle profiles
 In this task, I created an account on HackerRank and solved a beginner-level programming problem. I also created a Google Form titled “Digital Literacy Awareness Quiz” and collected responses. The responses were automatically stored in Google Sheets, which helped in organizing and analyzing the data.
 
 🗄️Files included:
-HackerRank problem screenshot
-Google Form screenshot
-Google Form link
+1.HackerRank problem screenshot
+2.Google Form screenshot
+3.Google Form link
 
 # Task 4 – Email Etiquette
 In this task, I wrote two professional emails:
