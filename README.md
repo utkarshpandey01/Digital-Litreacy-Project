@@ -8,6 +8,7 @@ This repository contains my Digital Literacy Project submitted as part of the CS
 In this task, I created a Digital Literacy Awareness infographic using Canva. The infographic includes topics such as safe internet practices, digital tools for students, and email etiquette. This task helped me understand how to present information visually in a simple and attractive way.
 
 🗄️File included:
+
 Infographic image
 
 
@@ -21,8 +22,11 @@ Screenshots of GitHub, LinkedIn, and Kaggle profiles
 In this task, I created an account on HackerRank and solved a beginner-level programming problem. I also created a Google Form titled “Digital Literacy Awareness Quiz” and collected responses. The responses were automatically stored in Google Sheets, which helped in organizing and analyzing the data.
 
 🗄️Files included:
+
 1.HackerRank problem screenshot
+
 2.Google Form screenshot
+
 3.Google Form link
 
 # Task 4 – Email Etiquette
@@ -32,8 +36,11 @@ Email to a company asking about internship opportunities
 I also created a social media do’s and don’ts checklist to promote responsible use of social media.
 
 🗄️Files included:
+
 Email 1
+
 Email 2
+
 Social media checklist
 
 
@@ -42,7 +49,9 @@ Social media checklist
 In this task, I studied about cybercrime, especially UPI fraud. I learned how scammers trick people into sharing OTP and UPI PIN. I also created a cyber safety checklist to spread awareness about online safety.
 
 🗄️Files included:
+
 Cybercrime case study
+
 Cyber safety checklist
 
 Conclusion
